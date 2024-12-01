@@ -10,7 +10,7 @@ public class Util {
 
     public static List<String> readInput() throws IOException {
         List<String> res = new ArrayList<>();
-        try(BufferedReader br = new BufferedReader(new FileReader("C:\\Users\\lorem\\Downloads\\09032024182838979401625562 (1)\\chp 2 servlets\\Codes des exemples\\adventofcode\\src\\main\\java\\org\\cicd\\uno\\input.txt"))){
+        try(BufferedReader br = new BufferedReader(new FileReader("input.txt"))){
             String line ;
             while((line = br.readLine())!= null){
                 res.add(line);
