@@ -1,1 +1,1 @@
-https://adventofcode.com/2024 PUZZLES SOLUTIONS.
+https://adventofcode.com Events.
